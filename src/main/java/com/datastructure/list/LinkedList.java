@@ -1,4 +1,4 @@
-package com.datastructure.org;
+package com.datastructure.list;
 
 /**
  * @Author nanqf
@@ -70,7 +70,6 @@ public class LinkedList {
      * @return
      */
     public static boolean isLoop(Node node){
-
         return false;
     }
 

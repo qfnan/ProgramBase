@@ -1,4 +1,4 @@
-package com.datastructure.org;
+package com.datastructure.list;
 
 
 /**
